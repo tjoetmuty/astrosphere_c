@@ -1,3 +1,4 @@
 Haloo Nama saya Dinar
 ini adalah newline
 ini hari selasa
+newline lagi

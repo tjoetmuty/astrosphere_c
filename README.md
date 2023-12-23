@@ -2,7 +2,7 @@
 ## Langkah pertama yang kalian lakukan
 
 1. git init pada directory kalian
-2. git remote add origin https://github.com/backend-programming-tadulako/exercise.git. Gunanya agar saat kalian push tugas kalian, masuknya ke github yang ini.
+2. git remote add origin https://github.com/tjoetmuty/astrosphere_c.git. Gunanya agar saat kalian push tugas kalian, masuknya ke github yang ini.
 
 
 ## Instruksi Pengumpulan
